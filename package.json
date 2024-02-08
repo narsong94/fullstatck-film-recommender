@@ -2,7 +2,7 @@
   "name": "dqflex",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://narsong.github.io/fullstack-film-recommender",
+  "homepage": "https://narsong94.github.io/fullstatck-film-recommender/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -17,7 +17,7 @@
     "react-stars": "^2.2.5"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start --openssl-legacy-provider",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
